@@ -27,6 +27,11 @@ implement additional security, privacy, and other useful features serverside.
 In addition to our server software, we aim to create Fosscord-aware clients that can be used to connect
 to multiple Fosscord-compatible instances with rich theming and plugin support.
 
+## Why Fosscord Docs Remastered?
+
+When you join their Discord Server asking for help you can tell they won't help you,
+this was made with the goal to not overwork the devs and keep them making fosscord.
+
 ## Support
 
 For any kind of support regarding Fosscord, feel free to ask questions in our [Discord.com server](https://discord.gg/Ms5Ev7S6bF)
